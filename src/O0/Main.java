@@ -4,7 +4,7 @@ class Main
 {
   public static void main(String[] args)
   {
-    System.out.println("aelksandrov.igor");
+    System.out.println("aleksandrov.igor");
   }
 }
 
